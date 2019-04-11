@@ -1,4 +1,4 @@
-def board (board)
+def board(board)
 
   board = [" "," "," "," "," "," "," "," "," "]
 end
