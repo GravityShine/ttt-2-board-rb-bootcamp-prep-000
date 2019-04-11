@@ -1,3 +1,4 @@
-def board (array)
-  array = [" "," "," "," "," "," "," "," "," "]
+def board (board)
+  
+  board = [" "," "," "," "," "," "," "," "," "]
 end
